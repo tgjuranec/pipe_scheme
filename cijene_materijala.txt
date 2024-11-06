@@ -1,0 +1,49 @@
+Prsten
+-25 - 1,85e
+-20 - 1e
+-16 - 0,75e
+
+Prijelaz
+1/2 20 - 3,75e
+3/4 20 - 4,4e
+
+TECE pločica
+1/2 20 - 6,25e
+1/2 16 - 5e
+
+Cijevi
+fi 25 - 5,32e
+fi20 - 3,75e
+fi16 - 2,75e
+
+T komadi
+25 - 10,62e
+20 - 6,25e
+16 - 6e
+
+Količine odokativno:
+T25 - 1kom
+T25-20-25 - 4kom
+T25-20-20 - 2kom
+T20 - 4kom
+T20-16-20 - 2kom
+T20-20-16 - 2kom
+T20-16-16 - 1kom
+Pločice
+20 -10kom
+16 - 10kom
+Prsten
+20 - 55kom
+16 - 10kom
+25 - 14kom
+Prijelazi
+20-3/4 - 18kom
+25-3/4 - 1kom
+20 - 1/2 4kom
+Ventili
+3/4 - 11kom
+1/2 - 4kom
+Cijevi
+fi25 - 
+fi20 - 
+fi16 - 
